@@ -1,6 +1,4 @@
-# Finnish-Bank-Reference-Number
-# Koodari: Timo Anttila, info@tuspe.com
-# https://timoanttila.com - https://tuspe.com
+# Suomalaisten pankkien käyttämän viitenumeron luonti
 
 Tuspen kauppaa kehittäessä tuli vastaan tarve tehdä laskuihin viitenumeroita automaattisesti,
 mutta niitä ei voi generoida täysin satunnaisista numeroista vaan viimeinen numero pitää olla
