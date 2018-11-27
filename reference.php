@@ -6,7 +6,7 @@ $numbers = array(1,3,7);
 
 // Default values
 $sum = $i = 0;
-$ref = 3245;
+$ref = 319218;
 
 // Numbers from $ref
 $ref_split = str_split($ref);
