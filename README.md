@@ -19,4 +19,4 @@ Lähin kymmenen miinus yhteissumma:
 Uusi toimiva viitenumero: 
 1234561
 
-Jostain syystä nelinumeroinen viitenumero ei toimi aina, mutta kuusinumeroinen luku toimii. Käytämme tällä hetkellä nelinumeroista tilausnumeroa ja perään vuodesta 18 (324418 + tarkistusnumero). Mahdollisesti vain parittomat luvut toimivat?
+Jostain syystä nelinumeroinen viitenumero ei toimi aina, mutta kuusinumeroinen luku toimii. Käytämme tällä hetkellä nelinumeroista tilausnumeroa ja perään vuodesta 18 (324418 + tarkistusnumero).
